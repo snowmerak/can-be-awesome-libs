@@ -1,4 +1,4 @@
-# awesome-go-chatter
+# Can be AWESOME libs
 
 ## test
 
