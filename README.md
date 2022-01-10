@@ -66,9 +66,3 @@
 ## python
 
 ### prew: https://github.com/snowmerak/prew
-
----
-
-## time display
-
-### read-time: https://github.com/lemon-mint/real-time
